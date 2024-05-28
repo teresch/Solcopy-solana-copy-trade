@@ -4,6 +4,9 @@
 
 Solcopy is an innovative software for copy trading on the Solana blockchain. With Solcopy, users can replicate the trades of expert traders in real-time, optimizing their investment strategies and maximizing returns.
 
+![](https://github.com/timuruva/realtime-processing/blob/127d46a2edc57ec1449d8976e04f301e3c1997b7/Files/line.gif)
+
+
 ## Key Features
 
 - **Copy Trading**: Automatically copy the trades of successful traders on Solana.
@@ -11,6 +14,9 @@ Solcopy is an innovative software for copy trading on the Solana blockchain. Wit
 - **Real-Time Updates**: Instant trade execution to ensure timely copying.
 - **Secure and Transparent**: Built on the secure and transparent Solana blockchain.
 - **Customizable Settings**: Adjust the copying parameters to fit your risk tolerance and investment goals.
+
+
+![](https://github.com/timuruva/realtime-processing/blob/127d46a2edc57ec1449d8976e04f301e3c1997b7/Files/line.gif)
 
 ## How to use
 
