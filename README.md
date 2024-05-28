@@ -1,5 +1,7 @@
 # Solcopy
 
+![Solcopy Logo](https://i.imgur.com/tVqMiYx.png)
+
 Solcopy is an innovative software for copy trading on the Solana blockchain. With Solcopy, users can replicate the trades of expert traders in real-time, optimizing their investment strategies and maximizing returns.
 
 ## Key Features
