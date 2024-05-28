@@ -1,4 +1,4 @@
-# Solcopy
+# Solana Copy Trade Bot
 
 ![Solcopy Logo](https://i.imgur.com/tVqMiYx.png)
 
