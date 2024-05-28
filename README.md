@@ -16,7 +16,7 @@ Solcopy is an innovative software for copy trading on the Solana blockchain. Wit
 
 To get started with Solcopy, follow these steps:
 
-1. ** Download and extract the files**
+1. **Download and extract the files**
 2. **Install dependencies**
  `npm i`
 3. **Edit the `config.js` file**
