@@ -17,11 +17,11 @@ SolCopy is an innovative software for copy trading on the Solana blockchain. Wit
 
 ## Free version
 
-✅ Cmd Interface
-✅ Wallet Stalking
-✅Custom Rpc
-❌ More than 1 wallet to copytrade
-❌ Buy and sell
+✅ Cmd Interface.
+✅ Wallet Stalking.
+✅Custom Rpc.
+❌ More than 1 wallet to copytrade.
+❌ Buy and sell.
 ❌  Copytrade
 ❌ User interface
 
